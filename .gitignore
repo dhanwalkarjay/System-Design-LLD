@@ -1,0 +1,12 @@
+output/
+bin/
+build/
+target/
+*.class
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.iml
