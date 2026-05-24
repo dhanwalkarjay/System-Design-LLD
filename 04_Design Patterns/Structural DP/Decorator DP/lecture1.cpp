@@ -3,7 +3,7 @@ using namespace std;
 
 /*
     -> This is the Decorator Design Pattern. It allows us to add new functionality to an existing object without altering its structure.
-    
+
     -> In this example, we have a base class ICar which defines the interface for our car. We have a concrete class Scorpio which implements the ICar interface. We then have a decorator class ScorpioDecorator which also implements the ICar interface and contains a pointer to an ICar object. Finally, we have a concrete decorator class BulletProof which inherits from ScorpioDecorator and adds new functionality to the getWeight() method.
 */
 
