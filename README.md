@@ -27,7 +27,7 @@ This repository is organized as a learning path for Low Level Design (LLD). Star
 ## Suggested Flow
 
 ```text
-Basics -> OOP -> SOLID -> Design Patterns -> Java Basics -> LLD Projects
+Basics -> OOP -> SOLID -> Design Patterns -> Java Basics / C++ Basics -> LLD Projects
 ```
 
 That flow will help you move from language fundamentals to real object-oriented design problems without jumping around.
