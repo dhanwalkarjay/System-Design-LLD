@@ -4,4 +4,13 @@
     -> in simple terms it checks the how is the structure of the class's object
 
     -> it focuses on adding new functionality without any need to modify entire system.
+
+    ->  main Patterns : 
+        1. Decorator Pattern
+        2. Adapter Pattern
+        3. Proxy Pattern
+        4. Facade Pattern
+        5. Bridge Pattern
+        6. Composite Pattern
+        7. Flyweight Pattern
 */
