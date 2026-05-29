@@ -13,4 +13,6 @@
         5. Bridge Pattern
         6. Composite Pattern
         7. Flyweight Pattern
+        8. Iterator Pattern
+        9. visitor Pattern
 */
