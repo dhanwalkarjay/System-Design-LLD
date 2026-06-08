@@ -1,0 +1,27 @@
+Elevator Design Requirements Simplified
+
+1. Elevators and Floors: The building will have several elevator cars and multiple floors for them to service.
+
+2. Building Limits: There's a cap of 15 floors in the building, with up to three elevators to service these floors.
+
+3. Elevator Movement: Elevators can move up, move down, or stay idle (not moving).
+
+4. Elevator Door Operation: The doors of an elevator can only open when it's not moving, in its idle state.
+
+5. Floor Access: Each elevator car will stop at every floor in the building.
+
+6. Outside Panel: Outside each elevator, there will be a panel with buttons. These let you call an elevator and indicate if you want to go up or down.
+
+7. Inside Panel: Inside each elevator, there will be a control panel with buttons for all floors and to open or close the elevator doors.
+
+8. Displays: Every elevator will have displays both inside and outside to show the current floor and the direction it's moving. The inside display will also show the elevator's capacity.
+
+9. Floor Panels and Displays: Each floor will have its own set of panels and displays for calling elevators and showing their status.
+
+10. Passenger Directions: Multiple passengers can use the elevator at the same time, even if they're going to different floors or in different directions.
+
+11. Elevator Control: The elevator system manages the movement of the elevators, the operation of the doors, and keeps an eye on the elevators' statuses.
+
+12. Smart Dispatch: When a passenger calls for an elevator, the system will choose the best elevator to send based on where the elevators are and where they're going.
+
+13. Capacity: Each elevator can hold up to eight people or a total weight of 680 kilograms at any one time.
