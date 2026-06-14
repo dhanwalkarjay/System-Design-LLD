@@ -1,0 +1,35 @@
+Car Rental System Requirements Simplified
+
+1. Users: The system has two types of users: customers, who rent vehicles, and receptionists, who manage the rental process.
+
+2. Vehicle Types: The system will include various vehicle types such as cars, trucks, vans, and motorcycles for rental.
+
+3. Vehicle Subtypes: Each vehicle type has subcategories:
+
+    . Cars can be economy, luxury, standard, or compact.
+
+    . Vans can be passenger or cargo.
+
+    . Motorcycles can be cruiser, touring, or sports.
+
+    . Trucks can be categorized as light, medium, or high-duty.
+
+4. Reservation Records: The system will record who has rented each vehicle and the date it was issued.
+
+5. Rental Tracking: The system will track how many vehicles a particular customer has rented.
+
+6. Reservation Cancellation: Customers should be able to cancel their reservations.
+
+7. Vehicle Log: To monitor all activities related to each vehicle, the system will keep a detailed log.
+
+8. Additional Equipment: Users can add extra equipment to their reservations, such as ski racks, child seats, and GPS navigation systems.
+
+9. Additional Services: Users can also add extra services to their reservations, like hiring a driver, having Wi-Fi access, and getting roadside assistance.
+
+10. Overdue Notifications and Fines: If a vehicle isn't returned by the due date, the system will notify the customer and impose a fine.
+
+11. Vehicle Search: Users can search for vehicles by type or model within the system.
+
+12. Branch Management: The system will oversee multiple branches of the car rental service.
+
+13. Parking Facilities: Each branch will have parking stalls for the vehicles.
