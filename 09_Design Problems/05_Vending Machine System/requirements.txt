@@ -1,0 +1,31 @@
+Vending Machine System
+
+Requirements Simplified 
+
+Here are the simplified requirements for the vending machine:
+
+    R1: The vending machine has different products in various slots.
+
+    R2: The vending machine can be in one of three states:
+
+    . NoMoneyInsertedState: No money is in the machine.
+    . MoneyInsertedState: Money has been put into the machine.
+    . DispenseState: The machine gives out the product.
+
+    R3: There are two types of people who can use the system: a regular user and an admin.
+
+    R4: The admin can put new products in the machine or take them out.
+
+    R5: Users can pick a product to buy by entering the slot number.
+
+    R6: Users can put cash into the machine.
+
+    R7: The machine can add up how much money has been put in.
+
+    R8: The machine checks if the money inserted is exactly enough for the chosen product.
+
+    R9: If the money is more than the price, the machine will give back change and release the product.
+
+    R10: If the money is less than the price, the machine shows an error message and gives the money back.
+
+These are the basic functions of the vending machine, and we will use them to design the system's class diagram in the next lesson.
